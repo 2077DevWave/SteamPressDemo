@@ -1,0 +1,6 @@
+{
+  "name": "استیم‌پرس پرو - SteamPress Pro",
+  "description": "معرفی افزونه متصل‌کننده استیم به ووکامرس برای فروشگاه‌های وردپرسی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
