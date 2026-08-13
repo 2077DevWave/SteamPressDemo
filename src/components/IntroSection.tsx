@@ -47,7 +47,7 @@ export const IntroSection: React.FC<IntroSectionProps> = ({ onScrollToSection })
             </div>
             <div className="flex items-center gap-1.5 px-3.5 py-2 rounded-xl bg-[#171d25] border border-[#2a475e]">
               <Layers className="w-4 h-4 text-blue-400" />
-              <span>سازگار با وردپرس +6.0 (تست‌شده در WP 7.0.3)</span>
+              <span>سازگار با وردپرس +6.0</span>
             </div>
           </div>
 

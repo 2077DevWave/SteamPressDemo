@@ -54,10 +54,10 @@ export const Footer: React.FC<FooterProps> = ({ onScrollToSection }) => {
             <div className="p-4 rounded-2xl bg-[#171d25] border border-[#2a475e] space-y-2 text-xs text-slate-300">
               <div className="flex items-center gap-2 font-bold text-white">
                 <ShieldCheck className="w-4 h-4 text-emerald-400" />
-                <span>سازگار با ووکامرس ۹.۰+</span>
+                <span>سازگار با المنتور و ووکامرس</span>
               </div>
               <p className="text-slate-400 text-[11px]">
-                پشتیبانی کامل از وردپرس ۶.x، المنتور پرو، صرافی نوبیتکس و قالب‌های استاندارد ووکامرس.
+                پشتیبانی کامل از وردپرس +6.0، المنتور پرو، صرافی نوبیتکس و قالب‌های استاندارد ووکامرس.
               </p>
             </div>
           </div>
